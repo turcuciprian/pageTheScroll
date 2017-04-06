@@ -28,7 +28,7 @@ class ViewController: UIViewController {
             
             scrollView.addSubview(imageView)
             
-            imageView.frame = CGRect(x: newX, y: view.frame.size.height / 2, width: 150, height: 150)
+            imageView.frame = CGRect(x: newX-75, y: (view.frame.size.height / 2)-75, width: 150, height: 150)
         }
         print("count: \(images.count)")
     }
