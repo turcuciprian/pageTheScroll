@@ -302,6 +302,7 @@
 				7DCAD59B1E95969900ECE9C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
